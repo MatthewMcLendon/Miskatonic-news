@@ -1,6 +1,6 @@
 const news = [
   {
-    title: "Meteor lands in local farm",
+    title: "Meteor Lands in Local Farm",
     story: "The Color out of Space",
     link: "https://www.hplovecraft.com/writings/texts/fiction/cs.aspx",
     city: "Arkham, Massachusetts",
@@ -8,7 +8,7 @@ const news = [
     image: "https://i1.sndcdn.com/artworks-000245198108-zw8cgz-t500x500.jpg",
   },
   {
-    title: "Boston Art Club hosts new Artist",
+    title: "Boston Art Club Hosts New Artist",
     story: "Pickman's Model",
     link: "https://www.hplovecraft.com/writings/texts/fiction/pm.aspx",
     city: "Boston, Massachusetts",
@@ -16,7 +16,7 @@ const news = [
     image: "https://www.juglaris.org/images/exterior2.jpg",
   },
   {
-    title: "Recent Flood Unearths Strange Body",
+    title: "Recent Flood Leads to Strange Sightings",
     story: "The Whisperer in Darkness",
     link: "https://www.hplovecraft.com/writings/texts/fiction/wid.aspx",
     city: "Townshend, Vermont",
