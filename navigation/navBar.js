@@ -1,7 +1,11 @@
 const navBar = () => {
   const contentElement = document.querySelector(".navigation-bar");
 
-  contentElement.innerHTML = `<a href="index.html">Home</a>`;
+  contentElement.innerHTML = `
+  <h1 class="paper-name">Miskatonic News</h1>
+  <div class="divider"></div>
+  <a href="index.html">Top News</a>
+  <div class="divider"></div>`;
 };
 
 export default navBar;
